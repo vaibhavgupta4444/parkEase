@@ -29,8 +29,6 @@ ParkEase aims to build **efficient, intelligent, and sustainable parking ecosyst
 ✅ Smart booking before arrival  
 ✅ Reduced congestion & pollution  
 ✅ Seamless digital payments  
-✅ AI/ML-driven insights & optimization  
-✅ Enhanced safety with security alerts  
 
 ---
 
